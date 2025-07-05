@@ -866,6 +866,7 @@ domains:
       - product-market fit
       - app automation.
       name: Lovable
+      icon_url: https://lovable.dev/favicon.ico
       oss: false
       popular: true
       social_urls:
